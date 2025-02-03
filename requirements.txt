@@ -1,0 +1,6 @@
+tkinter  # Typically pre-installed with Python, but listed here for completeness
+faiss-cpu  # FAISS library (use faiss-gpu if you have GPU support)
+openai  # OpenAI Python client for querying
+PyPDF2  # For PDF reading and extraction
+sentence_transformers
+
