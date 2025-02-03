@@ -22,8 +22,8 @@ Ensure you have the following Python dependencies installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/pdf-openai-query-tool.git
-   cd pdf-openai-query-tool
+   git clone https://github.com/your-username/personal-ai-agent.git
+   cd personal-ai-agent
 
 
 2. **Create a virtual environment:**
@@ -65,9 +65,8 @@ Ensure you have the following Python dependencies installed:
 
 This project is open-source and available under the MIT License.
 
-```
 
 ### Notes:
-- Replace `https://github.com/your-username/pdf-openai-query-tool.git` with the actual URL of your repository.
+- Replace `https://github.com/your-username/personal-ai-agent.git` with the actual URL of your repository.
 - The installation steps include creating and activating a virtual environment and installing dependencies from `requirements.txt`.
 - The usage section explains how to interact with the application.
